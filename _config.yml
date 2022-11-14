@@ -56,9 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   한 줄 소개
     - 장점 : 헬스를 통한 꾸준한 건강관리와 축구를 통한 팀워크, 소통 능력이 매우 좋습니다.
-    - 단점 : 코딩할 때 놓치는 부분이 있습니다. 하지만 단점을 알며 코드를 짜고 PUSH를 하기 전 코드 리뷰를 섬게 하게 하고 있습니다.
-    - <a href="google.com">Links</a>
-    - Images ![좋아유](/images/landscape-trees.jpg "Trees")
+    - 단점 : 코딩할 때 놓치는 부분이 있습니다. 하지만 단점을 개선하기 위해 코드 리팩토링을 노력 중 입니다.
+#    - <a href="google.com">Links</a>
+#    - Images ![좋아유](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
