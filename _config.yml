@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   21년 5월부터 웹 개발자라는 직업을 공부했고 21년 11월부터 직업으로 근무 중 입니다.
 
     - 장점 : 헬스를 통한 꾸준한 건강관리와 축구를 통한 팀워크, 소통 능력이 매우 좋습니다.
-    - 단점 : 코딩할 때 놓치는 부분이 있습니다. 하지만 단점을 개선하기 위해 코드 리팩토링을 노력 중 입니다.
+    - 단점 : 코딩할 때 놓치는 부분이 있습니다. 하지만 단점을 개선하기 위해 코드 리팩토링을 노력 중 입니다.123
 
 content:
   - title: Projects # Title for the section
