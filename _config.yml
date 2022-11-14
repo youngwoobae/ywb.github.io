@@ -49,7 +49,7 @@ instagram_username: by__w00
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+ about_title: 한 줄 소개 (Use this to override about section title)
 about_profile_image: images/reseum.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 매일 공부하며 학습하는 성장형 개발자, 노력형 인간 배영우입니다.<br>
