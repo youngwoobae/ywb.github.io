@@ -55,9 +55,9 @@ about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 매일 공부하며 학습하는 성장형 개발자, 노력형 인간 배영우입니다. 21년 5월부터 웹 개발자라는 직업을 공부했고 21년 11월부터 직업으로 근무 중 입니다.
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#    - Lists
-#    - Tables
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - 장점 : 헬스를 통한 꾸준한 건강관리와 축구를 통한 팀워크, 소통 능력이 매우 좋습니다.
+    - 단점 : 코딩할 때 놓치는 부분이 있습니다. 하지만 단점을 알며 코드를 짜고 PUSH를 하기 전 코드 리뷰를 섬게 하게 하고 있습니다.
 #    - <a href="google.com">Links</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
