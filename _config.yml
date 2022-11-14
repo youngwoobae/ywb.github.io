@@ -52,7 +52,8 @@ instagram_username: by__w00
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/reseum.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+    안녕하세요! 매일 공부하며 학습하는 성장형 개발자, 노력형 인간 배영우입니다. 21년 5월부터 웹 개발자라는 직업을 공부했고 21년 11월부터 직업으로 근무 중 입니다.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
