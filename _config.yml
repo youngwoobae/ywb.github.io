@@ -49,7 +49,7 @@ instagram_username: by__w00
 # google_analytics: "UA-00000000-0"
 
 # About Section
- about_title: 한 줄 소개 (Use this to override about section title)
+# about_title: 한 줄 소개 (Use this to override about section title)
 about_profile_image: images/reseum.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 매일 공부하며 학습하는 성장형 개발자, 노력형 인간 배영우입니다.<br>
@@ -96,19 +96,22 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: 휴먼교육센터
+        sub_title: 빅데이터 기반의 JAVA(자바), Python(파이썬) UI 전문가 양성 과정
+        caption: 21.05 ~ 21.10
         quote: >
-          Short institution or course description (optional)
+          Apache, Tomcat, Python, Oracle, MySQL, CSS, HTML, JS, JQuery, AJAX, JAVA, JSP Spring, NodeJS, Maven, Bootstrap, Mybatis를 배웠습니다.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+          백엔드, 프론트엔드 중심으로 웹 개발자 양성 과정을 이수했습니다.
+  - title: 주장에서 팀원으로
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      축구 선수단 주장, 군대에선 체육 참모, 그리고 회사 내 사원까지 늘 이끌고 앞에서 나아가던 저는 첫 회사에서 사원으로 일을 했습니다.
+      리더의 책임감을 알고 리더의 중요성을 알고 있는 저는 약 1년이라는 기간동안 맡은 업무 외 자발적으로 공부를 하며 다른 팀원의 프로젝트도 함께 분업했습니다.
+      저에겐 조직 생활이라는 단체, 협업은 어렵지 않고 친숙하고 자연스러운 일이 였습니다. 그렇게 약 1년 간 대형 프로젝트 2개와 중형 프로젝트 1개, 소형 프로젝트 1개를 마무리하였습니다.
+      이제는 저를 더 성장하고 제가 더 배우며 같이 이끌어가는 조직에서 근무를 하고 싶어서 이직을 결정하였습니다.
+      산을 왜 오르십니까? 라 묻는다면 "산이 거기 있기 때문에 오르는 거" 라고 답하리 라는 말이 있습니다.
+      저는 더 높은 산을 위해 매일 같이 공부하고 좋은 개발자, 책임감 있고 회사에 얼굴이 되는 개발자가 되고 싶습니다.
 
 # Footer
 footer_show_references: true
