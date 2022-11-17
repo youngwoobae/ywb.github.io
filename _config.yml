@@ -80,7 +80,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: 이수 내역
+  - title: Institution
     layout: list
     content:
       - layout: top-right
@@ -92,7 +92,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Apache, Tomcat, Python, Oracle, MySQL, CSS, HTML, JS, JQuery, AJAX, JAVA, JSP Spring, NodeJS, Maven, Bootstrap, Mybatis를 배웠으며
           백엔드, 프론트엔드 중심으로 웹 개발자 양성 과정을 이수했습니다.
-  - title: 주장에서 팀원으로
+  - title: From Captain To Team Member
     layout: text
     content: | # this will include new lines to allow paragraphs
       축구 선수단 주장, 군대에선 체육 참모, 그리고 회사 내 사원까지 늘 이끌고 앞에서 나아가던 저는 첫 회사에서 사원으로 일을 했습니다.<br>
