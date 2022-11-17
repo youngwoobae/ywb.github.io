@@ -88,8 +88,9 @@ content:
         sub_title: 빅데이터 기반의 JAVA(자바), Python(파이썬) UI 전문가 양성 과정
         caption: 21.05 ~ 21.10
         quote: >
-          Apache, Tomcat, Python, Oracle, MySQL, CSS, HTML, JS, JQuery, AJAX, JAVA, JSP Spring, NodeJS, Maven, Bootstrap, Mybatis를 배웠습니다.
+          처음으로 코딩을 접하고 개발자의 직업을 꿈꾸며 공부를 했습니다.
         description: | # this will include new lines to allow paragraphs
+          Apache, Tomcat, Python, Oracle, MySQL, CSS, HTML, JS, JQuery, AJAX, JAVA, JSP Spring, NodeJS, Maven, Bootstrap, Mybatis를 배웠으며
           백엔드, 프론트엔드 중심으로 웹 개발자 양성 과정을 이수했습니다.
   - title: 주장에서 팀원으로
     layout: text
