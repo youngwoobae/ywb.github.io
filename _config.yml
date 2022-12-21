@@ -66,20 +66,17 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: 2023년 기념 간단한 버킷리스트
         link: https://youngwoobae.github.io/bucket/
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  https://github.com/youngwoobae/bucket
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/youngwoobae/bucket
         quote: >
-          Short overview of the project (optional)
+          간단한 버킷리스트 페이지 만들기
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          작업 시간 15분
   - title: Institution
     layout: list
     content:
