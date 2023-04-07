@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
     - 단점 : 코딩할 때 놓치는 부분이 있습니다. 하지만 단점을 개선하기 위해 코드 리팩토링을 노력 중 입니다.
 
 content:
-  - title: Projects # Title for the section
+  - title: 2023년 마음 가짐 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -77,6 +77,23 @@ content:
           간단한 버킷리스트 페이지 만들기
         description: | # this will include new lines to allow paragraphs
           작업 시간 15분
+  - title: 심플 일기장 With React.js  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 심플 일기장
+        link: https://github.com/youngwoobae/simplediary.git
+        link_text: Link Text
+        additional_links:
+          - title: https://github.com/youngwoobae/simplediary.git
+            icon: fab fa-github
+            url: https://github.com/youngwoobae/simplediary.git
+        quote: >
+          리액트 공부와 코드 연습
+        description: | # this will include new lines to allow paragraphs
+          작업 시간 약 2시간
   - title: Institution
     layout: list
     content:
