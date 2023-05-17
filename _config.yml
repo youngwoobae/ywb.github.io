@@ -66,7 +66,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: 2023년 기념 간단한 버킷리스트
+        title: 간단한 버킷리스트
         link: https://youngwoobae.github.io/bucket/
         link_text: Link Text
         additional_links:
@@ -94,6 +94,22 @@ content:
           리액트 공부와 코드 연습
         description: | # this will include new lines to allow paragraphs
           작업 시간 약 2시간
+  - title: 나만의 감정 일기장 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 나만의 감정 일기장
+        link: https://github.com/youngwoobae/EMOTION-DIARY
+        link_text: Link Text
+        additional_links:
+          - title: https://github.com/youngwoobae/EMOTION-DIARY
+            icon: fab fa-github
+            url: https://hey0woo-inflearn-project.web.app/
+        quote: >
+          리액트 공부를 통해 사이트 제작부터 배포까지!
+        description: | # this will include new lines to allow paragraphs
   - title: Institution
     layout: list
     content:
