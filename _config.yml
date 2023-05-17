@@ -101,12 +101,12 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: 나만의 감정 일기장
-        link: https://github.com/youngwoobae/EMOTION-DIARY
+        link: https://hey0woo-inflearn-project.web.app/
         link_text: Link Text
         additional_links:
           - title: https://github.com/youngwoobae/EMOTION-DIARY
             icon: fab fa-github
-            url: https://hey0woo-inflearn-project.web.app/
+            url: https://github.com/youngwoobae/EMOTION-DIARY
         quote: >
           리액트 공부를 통해 사이트 제작부터 배포까지!
         description: | # this will include new lines to allow paragraphs
