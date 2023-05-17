@@ -90,7 +90,8 @@ content:
             icon: fab fa-github
             url: https://github.com/youngwoobae/simplediary.git
         quote: >
-          리액트 공부와 코드 연습, 약 2시간에 걸쳐 제작한 페이지 입니다. 정말 간단한 페이지 기본을 연습했습니다.
+          리액트 공부와 코드 연습 <br/>
+          약 2시간에 걸쳐 제작한 페이지 입니다. 정말 간단한 페이지 기본을 연습했습니다.
         description: | # this will include new lines to allow paragraphs
   - title: 나만의 감정 일기장 # Title for the section
     layout: list # Type of content section (list/text)
